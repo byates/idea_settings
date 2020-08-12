@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="sv" approved="true" type="Native" />
+      <removed_mapping pattern="sv" approved="true" type="SystemVerilog" />
+    </extensionMap>
+  </component>
+</application>
