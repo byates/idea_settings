@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="sv" approved="true" type="Native" />
       <removed_mapping pattern="sv" approved="true" type="SystemVerilog" />
     </extensionMap>
